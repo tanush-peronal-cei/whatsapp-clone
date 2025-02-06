@@ -9,6 +9,7 @@ const contacts = [
   { name: "Tanush", lastMessage: "Complete the algorithm", img: "./assets/profile-picture/tanush.jpg" },
   { name: "Cooper", lastMessage: "Can we meet inside blackhole?", img: "./assets/profile-picture/cooper.jpg" },
   { name: "Thanos", lastMessage: "I wanna kill 50% of all population", img: "./assets/profile-picture/thanos.webp" },
+  
 ]
 
 contacts.forEach((contact) => {
